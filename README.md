@@ -18,4 +18,4 @@
 
 ✔ TST & Average
  
- ![alt text](https://i.imgur.com/Hr6V1P7.png)
+ ![alt text](https://i.imgur.com/1CMpHi6.png)
